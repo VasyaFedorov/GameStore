@@ -1,0 +1,5 @@
+C:\\Users\\fedor\\source\\repos\\GameStoreServerSide\\DataBase\\usersData.txt
+C:\\Users\\fedor\\source\\repos\\GameStoreServerSide\\DataBase\\gamesData.txt
+C:\\Users\\fedor\\source\\repos\\GameStoreServerSide\\DataBase\\gameFiles
+127.0.0.1
+80

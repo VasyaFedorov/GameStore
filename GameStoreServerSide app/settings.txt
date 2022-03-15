@@ -1,0 +1,3 @@
+D:\ДАННЫЕ\Бауманка\Предметы 3 семестр\Курсовой проект 2022\GameStoreServerSide app\\DataBase\\usersData.txt
+D:\ДАННЫЕ\Бауманка\Предметы 3 семестр\Курсовой проект 2022\GameStoreServerSide app\\DataBase\\gamesData.txt
+D:\ДАННЫЕ\Бауманка\Предметы 3 семестр\Курсовой проект 2022\GameStoreServerSide app\\DataBase\\gameFiles
